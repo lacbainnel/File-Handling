@@ -1,0 +1,3 @@
+Name= Jannel
+Age= 18
+Gender= Female
